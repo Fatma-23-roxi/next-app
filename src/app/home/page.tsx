@@ -1,3 +1,7 @@
 export default function home() {
-  return <>test</>;
+  return (
+    <div className="container">
+      <h1>welcome</h1>
+    </div>
+  );
 }
